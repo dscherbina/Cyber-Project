@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{BF02335C-D0C2-A7F1-AAFD-947400384C91}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/UIManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/FlyingMonster.cs" Line="72" Column="17" />
+      <File FileName="Assets/Scripts/Character.cs" Line="98" Column="9" />
+      <File FileName="Assets/Scripts/Bullet.cs" />
+      <File FileName="Assets/Scripts/ShootableMonster.cs" />
+      <File FileName="Assets/Scripts/BossHealth.cs" />
+      <File FileName="Assets/Scripts/Unit.cs" />
+      <File FileName="Assets/Dialogue/Dialogue.cs" />
+      <File FileName="Assets/Dialogue/DialogueTrigger.cs" />
+      <File FileName="Assets/Dialogue/DialogueManager.cs" />
+      <File FileName="Assets/Dialogue/DialogueAnimator.cs" />
+      <File FileName="Assets/Scripts/UIManager.cs" Line="11" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Vega 1.0" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Dialogue" expanded="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="UIManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="60fa617d-5653-456d-b149-af3236e9974c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
